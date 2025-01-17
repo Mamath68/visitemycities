@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">VisiteMyCities2</string>
+    <string name="app_name">Visite My Cities</string>
+    <string name="salut_poto">Salut poto!</string>
+    <string name="a_va">ça va?</string>
 </resources>
